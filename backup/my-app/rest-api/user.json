@@ -1,0 +1,14 @@
+{
+    "user1" : {
+        "fx" : "x*4-13",
+        "xl" : 1.5,
+        "xr" : 2,
+        "id" : 1
+    },
+    "user2" : {
+        "name" : "not2111",
+        "password" : "1234",
+        "occupation" : "student",
+        "id" : 2
+    }
+}
